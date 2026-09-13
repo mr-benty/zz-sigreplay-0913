@@ -1,0 +1,2 @@
+SECOND attacker payload C2 — control arm: pushed by an ORDINARY WRITE COLLABORATOR, not the deploy key.
+ts=2026-09-13T12:46:28Z
